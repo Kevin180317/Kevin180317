@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Ecommetrica in Tijuana MX as FullStack Developer.\
+👨‍💻 &nbsp;I am Currently Working at PrometheusTij && Ecommetrica in Tijuana MX as FullStack Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Tecnologias en Sistemas Inteligentes in UDCI .\
 🌱 &nbsp;I'm a full-stack developer with expertise in the MERN stack, as well as mobile app development using React, Expo, and Ionic.\
