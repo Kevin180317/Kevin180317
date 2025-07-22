@@ -11,7 +11,7 @@
 ✍️ &nbsp;In my spare time, I enjoy designing logos and writing blogs as creative outlets.\
 💬 &nbsp;Feel free to reach out for pro bono consulting, volunteering opportunities, or even just an engaging discussion on tech, design, or anything in between.\
 ✉️ &nbsp;You can shoot me an email at okhuysen.dev@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://okhuysendev.vercel.app/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://okhuysen.dev/) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
