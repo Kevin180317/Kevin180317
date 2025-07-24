@@ -35,6 +35,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![Supabase](https://img.shields.io/badge/supabase-ffff?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
