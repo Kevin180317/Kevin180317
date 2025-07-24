@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin180317&theme=dark&hide_border=true"/>
+  <img height="180em" src="[https://github-readme-streak-stats.herokuapp.com/?user=kevin180317&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=kevin180317&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly))"/>
 </p>
 
 
