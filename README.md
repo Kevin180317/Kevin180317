@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 
 💼 &nbsp;FullStack Developer at **Ecommetrica** — Tijuana, MX.\
-🚀 &nbsp;4+ years building web and mobile apps for medical, dental, logistics, and e-commerce clients.\
+🚀 &nbsp;5+ years building web and mobile apps for medical, dental, logistics, and e-commerce clients.\
 🌱 &nbsp;Specialized in React, Next.js, and Astro on the frontend — Node.js + Express on the backend.\
 📱 &nbsp;Also build cross-platform mobile apps with Android (Java/Kotlin) and iOS (Swift).\
 🛠 &nbsp;Delivered 30+ production projects — check them out at [okhuysen.dev](https://okhuysen.dev/).\
